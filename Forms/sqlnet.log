@@ -1,0 +1,336 @@
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 11-NOV-15 08:29:32
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\RWRBE60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 01-DEC-15 16:56:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12505, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 07-DEC-15 12:51:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12204
+    TNS-12204: TNS:received data refused from an application
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12505, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 07-DEC-15 16:12:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12204
+    TNS-12204: TNS:received data refused from an application
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 17-DEC-15 16:40:31
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.8)(PORT=1521))(CONNECT_DATA=(SID=DRC)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 17-DEC-15 16:44:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12203, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.8)(PORT=1521))(CONNECT_DATA=(SID=DRC)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 17-DEC-15 16:44:13
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12203
+    TNS-12203: TNS:unable to connect to destination
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NET80; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 24-DEC-15 13:51:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 30-DEC-15 12:24:01
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 30-DEC-15 18:16:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 15:30:47
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 15:52:42
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 16:03:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 16:03:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 16:03:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12224, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=TBREHIMA)(PORT=1521))(CONNECT_DATA=(SID=STOCKS)(CID=(PROGRAM=C:\orant\bin\ifbld60.exe)(HOST=TBREHIMA)(USER=TBREHIMA))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 18-JAN-16 16:03:29
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 12224
+    TNS-12224: TNS:no listener
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
